@@ -1,8 +1,29 @@
-# React + Vite
+# Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Explore movies seamlessly with our platform, leveraging TMDb.org data for quick access to ratings, titles, release dates, and captivating descriptions.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+
+## Overview
+
+Discover and explore your favorite movies effortlessly with our website! Enter the name of your beloved movie, and we'll fetch all relevant films from TMDb.org. Immerse yourself in a wealth of information, including ratings, names, release dates, and captivating descriptions. Your cinematic journey begins here!
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: (https://github.com/ataha1/movie-search-app)
+- Live Site URL: (https://candid-wisp-e1cff9.netlify.app/)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS
+- React JS
